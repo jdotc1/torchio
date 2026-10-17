@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [TorchIO-project/torchio](https://github.com/TorchIO-project/torchio), the Python toolkit for reading, preprocessing, sampling, augmenting, and writing 3D medical images for PyTorch workflows. Its spatial and intensity transforms, including MRI artifact simulations, and patch-based sampling support the data preparation side of medical-image learning experiments.
+
+The fork's [upstream PR #1529](https://github.com/TorchIO-project/torchio/pull/1529) proposes preserving HTTPS when dataset downloads fail. It was open on 17 October 2026 and is tracked on the linked feature branch.
+
+Start with the [official quickstart](https://docs.torchio.org/quickstart.html) for installation and a working example, then explore the [documentation](https://docs.torchio.org/). [Compare the default branch with upstream](https://github.com/jdotc1/torchio/compare/TorchIO-project:main...jdotc1:main). The original visual examples, paper citation, institutional acknowledgments, and contributor list remain below.
+
+---
+
 <!-- markdownlint-disable -->
 <p align="center">
   <a href="https://docs.torchio.org/">
